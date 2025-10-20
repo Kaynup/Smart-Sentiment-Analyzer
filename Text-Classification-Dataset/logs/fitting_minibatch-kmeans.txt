@@ -1,0 +1,152 @@
+Connecting to Milvus...
+Collection 'texts_collection' has 2102529 vectors.
+
+--- Scaling and optional PCA fitting ---
+Batch 1: Loaded 50000 vectors
+Batch 1: Scaled and PCA-fitted
+Batch 2: Loaded 50000 vectors
+Batch 2: Scaled and PCA-fitted
+Batch 3: Loaded 50000 vectors
+Batch 3: Scaled and PCA-fitted
+Batch 4: Loaded 50000 vectors
+Batch 4: Scaled and PCA-fitted
+Batch 5: Loaded 50000 vectors
+Batch 5: Scaled and PCA-fitted
+Batch 6: Loaded 50000 vectors
+Batch 6: Scaled and PCA-fitted
+Batch 7: Loaded 50000 vectors
+Batch 7: Scaled and PCA-fitted
+Batch 8: Loaded 50000 vectors
+Batch 8: Scaled and PCA-fitted
+Batch 9: Loaded 50000 vectors
+Batch 9: Scaled and PCA-fitted
+Batch 10: Loaded 50000 vectors
+Batch 10: Scaled and PCA-fitted
+Batch 11: Loaded 50000 vectors
+Batch 11: Scaled and PCA-fitted
+Batch 12: Loaded 50000 vectors
+Batch 12: Scaled and PCA-fitted
+Batch 13: Loaded 50000 vectors
+Batch 13: Scaled and PCA-fitted
+Batch 14: Loaded 50000 vectors
+Batch 14: Scaled and PCA-fitted
+Batch 15: Loaded 50000 vectors
+Batch 15: Scaled and PCA-fitted
+Batch 16: Loaded 50000 vectors
+Batch 16: Scaled and PCA-fitted
+Batch 17: Loaded 50000 vectors
+Batch 17: Scaled and PCA-fitted
+Batch 18: Loaded 50000 vectors
+Batch 18: Scaled and PCA-fitted
+Batch 19: Loaded 50000 vectors
+Batch 19: Scaled and PCA-fitted
+Batch 20: Loaded 50000 vectors
+Batch 20: Scaled and PCA-fitted
+Batch 21: Loaded 50000 vectors
+Batch 21: Scaled and PCA-fitted
+Batch 22: Loaded 50000 vectors
+Batch 22: Scaled and PCA-fitted
+Batch 23: Loaded 50000 vectors
+Batch 23: Scaled and PCA-fitted
+Batch 24: Loaded 50000 vectors
+Batch 24: Scaled and PCA-fitted
+Batch 25: Loaded 50000 vectors
+Batch 25: Scaled and PCA-fitted
+Batch 26: Loaded 50000 vectors
+Batch 26: Scaled and PCA-fitted
+Batch 27: Loaded 50000 vectors
+Batch 27: Scaled and PCA-fitted
+Batch 28: Loaded 50000 vectors
+Batch 28: Scaled and PCA-fitted
+Batch 29: Loaded 50000 vectors
+Batch 29: Scaled and PCA-fitted
+Batch 30: Loaded 50000 vectors
+Batch 30: Scaled and PCA-fitted
+Batch 31: Loaded 50000 vectors
+Batch 31: Scaled and PCA-fitted
+Batch 32: Loaded 50000 vectors
+Batch 32: Scaled and PCA-fitted
+Batch 33: Loaded 50000 vectors
+Batch 33: Scaled and PCA-fitted
+Batch 34: Loaded 50000 vectors
+Batch 34: Scaled and PCA-fitted
+Batch 35: Loaded 50000 vectors
+Batch 35: Scaled and PCA-fitted
+Batch 36: Loaded 50000 vectors
+Batch 36: Scaled and PCA-fitted
+Batch 37: Loaded 50000 vectors
+Batch 37: Scaled and PCA-fitted
+Batch 38: Loaded 50000 vectors
+Batch 38: Scaled and PCA-fitted
+Batch 39: Loaded 50000 vectors
+Batch 39: Scaled and PCA-fitted
+Batch 40: Loaded 50000 vectors
+Batch 40: Scaled and PCA-fitted
+Batch 41: Loaded 50000 vectors
+Batch 41: Scaled and PCA-fitted
+Batch 42: Loaded 50000 vectors
+Batch 42: Scaled and PCA-fitted
+Batch 43: Loaded 2529 vectors
+Batch 43: Scaled and PCA-fitted
+
+--- Training MiniBatchKMeans ---
+Batch 1: MiniBatchKMeans partial_fit done
+Batch 2: MiniBatchKMeans partial_fit done
+Batch 3: MiniBatchKMeans partial_fit done
+Batch 4: MiniBatchKMeans partial_fit done
+Batch 5: MiniBatchKMeans partial_fit done
+Batch 6: MiniBatchKMeans partial_fit done
+Batch 7: MiniBatchKMeans partial_fit done
+Batch 8: MiniBatchKMeans partial_fit done
+Batch 9: MiniBatchKMeans partial_fit done
+Batch 10: MiniBatchKMeans partial_fit done
+Batch 11: MiniBatchKMeans partial_fit done
+Batch 12: MiniBatchKMeans partial_fit done
+Batch 13: MiniBatchKMeans partial_fit done
+Batch 14: MiniBatchKMeans partial_fit done
+Batch 15: MiniBatchKMeans partial_fit done
+Batch 16: MiniBatchKMeans partial_fit done
+Batch 17: MiniBatchKMeans partial_fit done
+Batch 18: MiniBatchKMeans partial_fit done
+Batch 19: MiniBatchKMeans partial_fit done
+Batch 20: MiniBatchKMeans partial_fit done
+Batch 21: MiniBatchKMeans partial_fit done
+Batch 22: MiniBatchKMeans partial_fit done
+Batch 23: MiniBatchKMeans partial_fit done
+Batch 24: MiniBatchKMeans partial_fit done
+Batch 25: MiniBatchKMeans partial_fit done
+Batch 26: MiniBatchKMeans partial_fit done
+Batch 27: MiniBatchKMeans partial_fit done
+Batch 28: MiniBatchKMeans partial_fit done
+Batch 29: MiniBatchKMeans partial_fit done
+Batch 30: MiniBatchKMeans partial_fit done
+Batch 31: MiniBatchKMeans partial_fit done
+Batch 32: MiniBatchKMeans partial_fit done
+Batch 33: MiniBatchKMeans partial_fit done
+Batch 34: MiniBatchKMeans partial_fit done
+Batch 35: MiniBatchKMeans partial_fit done
+Batch 36: MiniBatchKMeans partial_fit done
+Batch 37: MiniBatchKMeans partial_fit done
+Batch 38: MiniBatchKMeans partial_fit done
+Batch 39: MiniBatchKMeans partial_fit done
+Batch 40: MiniBatchKMeans partial_fit done
+Batch 41: MiniBatchKMeans partial_fit done
+Batch 42: MiniBatchKMeans partial_fit done
+Batch 43: MiniBatchKMeans partial_fit done
+
+Training complete! Models and metadata saved to 'src/sklearn_models/minibatch_kmeans'
+{
+    "vector_collection_name": "texts_collection",
+    "num_vectors_processed": 2102529,
+    "batch_size": 50000,
+    "n_clusters": 10,
+    "use_pca": true,
+    "pca_components": 128,
+    "model_files": {
+        "scaler": "src/sklearn_models/minibatch_kmeans/scaler.joblib",
+        "pca": "src/sklearn_models/minibatch_kmeans/incremental_pca.joblib",
+        "kmeans": "src/sklearn_models/minibatch_kmeans/minibatch_kmeans.joblib"
+    },
+    "training_time_seconds": 197.48,
+    "timestamp": "2025-10-03 21:26:14"
+}

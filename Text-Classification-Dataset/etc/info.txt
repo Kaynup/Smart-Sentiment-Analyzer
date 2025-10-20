@@ -1,0 +1,11 @@
+bearer: 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
+Clientsercret: 	lgAmuWHjL5j7IofUCJQtU4xBQfEicQ
+ClientID: 7XS2VDcdCA5iXt1n90nc7w
+Devname: Advanced-Ad-5151
+Appname: RedDev
+
+
+Reddit:------------------------------------------
+Collected between 09/07/2025 to 14/07/2025
+
+

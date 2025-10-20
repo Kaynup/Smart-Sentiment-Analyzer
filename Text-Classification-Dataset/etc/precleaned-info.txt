@@ -1,0 +1,25 @@
+We will label various data of 2118445 samples, divided into 5 chunks
+
+
+  Chunk   |  Samples
+---------------------
+ Chunk_1  |  400000
+ Chunk_2  |  400000
+ Chunk_3  |  400000
+ Chunk_4  |  400000
+ Chunk_5  |  518445
+
+
+Some tags are multilabelled:
+
+
+ Labels       |   Meta-tags
+----------------------------------------------------------------------------
+ text_label       |   'Positive:1' ; 'Negative:-1' ; 'Neutral:0'
+ text_tone        |   'Sarcastic:-1 to -5' ; 'Sincere:1 to 5' ; 'Neutral:0'
+ contains_slang   |   'True' ; 'False'
+ nsfw_slang       |   'True' ; 'False'
+ causality        |   'True' ; 'False'
+ contains_emojies |   'True' ; 'False'
+ context_fields   |   'Advice' ; 'Review' ; 'Comment' ; 'Compliment' ; 'Joke-Meme' ; 'Question' ; 'Reply'
+ usability        |   'Great:3' ; 'Good:2' ; 'Low:1' ; 'Bad:0'

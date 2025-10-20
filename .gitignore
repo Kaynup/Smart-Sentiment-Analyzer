@@ -1,0 +1,12 @@
+**/.ipynb_checkpoints/
+
+**/*.csv
+
+**/__pycache__/
+**/.pytest_cache
+
+**/volumes/
+
+**/exports/
+
+**/precleaned-chunks/

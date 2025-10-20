@@ -1,0 +1,15 @@
+{
+    "vector_collection_name": "texts_collection",
+    "num_vectors_processed": 2102529,
+    "batch_size": 50000,
+    "n_clusters": 10,
+    "use_pca": true,
+    "pca_components": 128,
+    "model_files": {
+        "scaler": "src/sklearn_models/minibatch_kmeans/scaler.joblib",
+        "pca": "src/sklearn_models/minibatch_kmeans/incremental_pca.joblib",
+        "kmeans": "src/sklearn_models/minibatch_kmeans/minibatch_kmeans.joblib"
+    },
+    "training_time_seconds": 197.48,
+    "timestamp": "2025-10-03 21:26:14"
+}

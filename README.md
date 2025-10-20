@@ -39,3 +39,5 @@ Each sample contains the following structured fields:
 | `usability`          | Confidence/quality score for the entire sample: <br> `Great:3`, `Good:2`, `Low:1`, `Bad:0` |
 
 ---
+
+### Author and Initiator: Punyak
